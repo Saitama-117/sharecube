@@ -19,7 +19,7 @@
             <li><a style='color:green;' href="BrowseFile.php"><span class="fa fa-search" ></span><strong> Browse Papers</strong></a></li>
             <li><a style='color:green;' href="Review.php"><span class="fa fa-search" ></span><strong> Review</strong></a></li>   
             <li><a style="color:green;" href="FileMiembro.php"><span class="fa fa-file-o"></span><strong> Submit Paper</strong></a></li>
-            <li><a style="color:green;" href="Submission.php"><span class="fa fa-file-o"></span><strong> My Submissions</strong></a></li>
+            <li><a style="color:green;" href="submissions.php"><span class="fa fa-file-o"></span><strong> My Submissions</strong></a></li>
             <li><a style="color:green;" href="AwaitingFeed.php"><span class="fa fa-file-o"></span><strong> Awaiting Review</strong></a></li>   
             <li><a style="color:green;" href="ReviewedFile.php"><span class="fa fa-file-o"></span><strong> Papers Reviewed</strong></a></li>  
             <li class="dropdown">
